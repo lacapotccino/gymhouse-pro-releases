@@ -1,0 +1,10 @@
+{
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/lacapotccino/GymHouse-pro/releases/download/v2.2.0/GymHouse.Pro_2.2.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUFlsNVRKaDB3TVNyQnBEZ2Y0cEFRUVNiL2RCcEQvaDIzM0YrOUhDSVRrUC92UCtSMXBNd3VSZy9oMGNsbDA3RVR5K3FsajJzc3F5cFBNZGdRNFBqZnRnQ3BnM1YzbkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTI5MTExCWZpbGU6R3ltSG91c2UgUHJvXzIuMi4wX3g2NC1zZXR1cC5leGUKNzhaRUNOQUd4c096c2lLMzh4TnJyWlNWU2RIUnR0UzYvVVVpRUpLQ09jU1gyVmk5NklZS2F2MDhRbTN2VWtPaDRKMk5uTExDS0U2S01pdmwrakNHQUE9PQo="
+    }
+  },
+  "version": "2.2.0",
+  "pub_date": "2026-07-01T19:55:57Z"
+}
